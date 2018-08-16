@@ -65,16 +65,16 @@ ul.sf-menu li li li.sfHover ul {
 	font-size: 12px;
 	line-height: 15px;
 	font-weight: normal;
-	color: #FFF;
+	color: #111;
 }
-.sf-menu a, .sf-menu a:visited  { /* visited pseudo selector so IE6 applies text colour*/ color:			#FFF; }
-.sf-menu li { background-color: #F33; }
-.sf-menu li li { background-color: #F33; }
-.sf-menu li li li { background-color: #F33; }
+.sf-menu a, .sf-menu a:visited  { /* visited pseudo selector so IE6 applies text colour*/ color:			#111; }
+.sf-menu li { background-color: #FF0; }
+.sf-menu li li { background-color: #FF0; }
+.sf-menu li li li { background-color: #FF0; }
 .sf-menu li:hover, .sf-menu li.sfHover,
 .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
 	outline:		0;
-	background-color: #F60;
+	background-color: #FF0;
 }
 
 /*** arrows **/
